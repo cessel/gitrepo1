@@ -1,0 +1,2 @@
+Print ("Goodbay world");
+Print ("Goodbay");
