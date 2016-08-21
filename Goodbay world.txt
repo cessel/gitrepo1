@@ -1,1 +1,2 @@
-Print ("goodbay world");
+Print ("Goodbay world");
+Print ("Goodbay");
