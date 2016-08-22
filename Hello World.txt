@@ -3,3 +3,4 @@ Print ("Hello everybody");
 Print("Hello User!");
 Print("Hello friend");
 Print("Hello my dear friend");
+print (Hello! Today: 22.08.2016);
