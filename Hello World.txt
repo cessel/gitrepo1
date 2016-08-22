@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Print ("Hello world");
 Print ("Hello everybody");
 Print("Hello User!");
