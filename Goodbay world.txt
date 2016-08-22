@@ -1,3 +1,2 @@
 Print ("Goodbay world");
 Print ("Goodbay");
-Print("Goodby! See yor tomorrow - 23.08.2016");
